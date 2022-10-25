@@ -12,3 +12,5 @@ Once trained on a relative low amount of data points, this surrogate model can b
 Moreover, the underlying model, a Gaussian process, is stochastic in nature.
 This allows for uncertainty quantification in the outcomes of the queried model, which plays an important role in decision making or risk assessment.
 
+doi://https://www.mdpi.com/1999-4893/15/4/102
+
